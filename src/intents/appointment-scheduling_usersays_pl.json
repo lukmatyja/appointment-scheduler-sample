@@ -1,0 +1,137 @@
+[
+  {
+    "id": "2d5bb766-f520-4b31-901b-071a2b2d0c95",
+    "data": [
+      {
+        "text": "spotkanie w ",
+        "userDefined": false
+      },
+      {
+        "text": "piatek",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ca66c24-de9d-4cb2-8fd0-656c8ab4e956",
+    "data": [
+      {
+        "text": "chce umowic spotkanie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab182c49-ab18-4836-a8f0-17da107a9b34",
+    "data": [
+      {
+        "text": "umów spotkanie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a892c31c-3dd4-4358-8e17-886766be5e5d",
+    "data": [
+      {
+        "text": "chcę się umówić ",
+        "userDefined": false
+      },
+      {
+        "text": "w",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piatek",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " na ",
+        "userDefined": false
+      },
+      {
+        "text": "13",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dce69e5a-f19c-44ae-a1b0-ebd965b55e50",
+    "data": [
+      {
+        "text": "chce umowic spotkanie ",
+        "userDefined": false
+      },
+      {
+        "text": "10.04.2020",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " o ",
+        "userDefined": false
+      },
+      {
+        "text": "godzinie 15",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "682a9928-5cc3-4e0d-ba1e-c649b473cd9d",
+    "data": [
+      {
+        "text": "Umów spotkanie ",
+        "userDefined": false
+      },
+      {
+        "text": "jutro",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " na ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

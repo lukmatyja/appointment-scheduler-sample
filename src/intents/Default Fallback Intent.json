@@ -1,0 +1,45 @@
+{
+  "id": "f391aca2-32e2-48a3-8969-3cedb29b2f2d",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pl",
+          "condition": "",
+          "speech": [
+            "Nie rozumiem. Możesz powtórzyć?",
+            "Nie rozumiem co mówisz. Możesz powtórzyć?",
+            "Możesz to powtórzyć?",
+            "Możesz powtórzyć?",
+            "Możesz powiedzieć to jeszcze raz?",
+            "Nie rozumiem.",
+            "Możesz powtórzyć, o co chodziło?",
+            "Słucham?",
+            "Proszę?",
+            "Możesz jeszcze raz to powiedzieć?",
+            "Nie rozumiem.",
+            "Nie bardzo rozumiem."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
